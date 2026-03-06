@@ -15,7 +15,6 @@ pretrained_models/
 *.pt
 *.pth
 *.npz
-*.png
 *.jpg
 *.jpeg
 *.pdf
