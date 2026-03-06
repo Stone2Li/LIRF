@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.venv/
+venv/
+
+# Runtime artifacts
+results/
+checkpoints/
+pretrained_models/
+*.pt
+*.pth
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+*.log
+swanlog/
+
+# Data
+data/
