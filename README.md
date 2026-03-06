@@ -4,7 +4,7 @@
 
 <a href="https://arxiv.org/abs/2509.19903"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 
-<img src="./assets/LIRF_framework.png" width="60%" alt="LIRF Framework" align="center">
+<img src="./assets/LIRF_framework.png" width="90%" alt="LIRF Framework" align="center">
 
 </div>
 
