@@ -7,6 +7,7 @@
 <img src="./assets/LIRF_framework.png" width="60%" alt="LIRF Framework" align="center">
 
 </div>
+
 ## 1. Paper Overview
 
 In the limited-data regime, diffusion/flow-matching models tend to memorize training samples.
